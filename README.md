@@ -5,4 +5,4 @@ Please contact me with any questions or concerns regarding your buckets.
 
 
 
-Acknowledgementofmy work would be greatly appreciated on your website or bug bounty reward.
+Acknowledgement of my work would be greatly appreciated on your website or bug bounty reward.
